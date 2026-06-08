@@ -1,0 +1,14 @@
+### Module positions - created on Thu Mar 14 12:42:45 2019 ###
+### Printed by Pcbnew version kicad 4.0.7-e2-6376~61~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                             PosX       PosY       Rot  Side
+C1        10uF        C_0805                            9.7250    57.7950  180.0000  bottom
+C2        22uF        C_0805                            9.4710    64.3990  180.0000  bottom
+L1        2.2uH       L_1210_HandSoldering             14.0430    60.5890   90.0000  bottom
+R1        10K         R_0805                            6.6770     8.2650  180.0000  bottom
+R4        10K         R_0805                           12.0110    33.9190  270.0000  bottom
+R7        330         R_0805                           14.4850    37.0000    0.0000  bottom
+R8        330         R_0805                            7.6422    35.0620   90.0000  bottom
+U3        RP604K331A  DFN-12-1EP_2.7x3mm_Pitch0.5mm     9.7250    60.8430    0.0000  bottom
+## End

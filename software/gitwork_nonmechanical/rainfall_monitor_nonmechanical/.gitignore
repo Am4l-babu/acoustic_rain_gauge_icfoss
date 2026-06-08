@@ -1,0 +1,25 @@
+# Ignore Mac system files
+.DS_store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Igonote file locations
+recordings/
+
+output_wav/
+
+model/
+
+data/
+
+rain_dataset/
+
+speech_commands_v0.02/
+
+# Ignore jupyter checkpoint
+.ipynb_checkpoints/

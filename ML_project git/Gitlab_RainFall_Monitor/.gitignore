@@ -1,0 +1,29 @@
+# Ignore Mac system files
+.DS_store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.o
+
+# Executables
+# ttn-abp-send
+
+
+# Ignore virtual environment
+venv/
+
+# Ignore jupyter checkpoint
+.ipynb_checkpoints/
+
+# Ignore temporary locations and files
+saved_TF_model/
+*.tflite
+
+# Ignore Influxdb API credentials
+src/config/influxdb_api.yaml
+src/config/lorawan_keys.yaml
+
+
+# IDE specific
+.vscode/

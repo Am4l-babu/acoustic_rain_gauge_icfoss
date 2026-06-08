@@ -1,0 +1,25 @@
+#include <stdio.h>
+void get();
+int main() {
+	
+	get();
+	
+}
+
+void get()
+{
+    int a=12;int b=23;
+    int c=23; int w=98;
+    set(a,b,c,w);
+    
+    
+}
+
+int set(int d,int e,int f,int g)
+{
+    printf("%d \n",d);
+    printf("%d \n",e);
+    printf("%d \n",f);
+    printf("%d \n",g);
+    
+}

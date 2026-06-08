@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33.376762mm"
+   height="63.699669mm"
+   viewBox="0 0 33.376762 63.699669"
+   version="1.1"
+   id="svg1421"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="ULPLoRa_Schematic.svg">
+  <defs
+     id="defs1415">
+    <inkscape:perspective
+       id="perspective12331"
+       inkscape:persp3d-origin="6.9915811 : 15.510622 : 1"
+       inkscape:vp_z="13.983162 : 23.265931 : 1"
+       inkscape:vp_y="0 : 999.99988 : 0"
+       inkscape:vp_x="0 : 23.265931 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       id="clipPath8127"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         transform="scale(-1,1)"
+         ry="0.25737625"
+         y="120.59476"
+         x="-66.785873"
+         height="1.9919207"
+         width="13.807335"
+         id="rect8129"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.28109911" />
+    </clipPath>
+    <clipPath
+       id="clipPath8131"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         rx="0"
+         ry="0.098083638"
+         style="fill:#0f7391;fill-opacity:1;stroke-width:0.0827582"
+         y="120.59476"
+         x="53.549706"
+         height="4.7625027"
+         width="11.943702"
+         id="rect8133" />
+    </clipPath>
+    <clipPath
+       id="clipPath8139"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.23623508"
+         rx="0.37797582"
+         y="120.48593"
+         x="54.116039"
+         height="1.8898809"
+         width="10.961308"
+         id="rect8141"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath8155"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.19448118"
+         rx="0.37797582"
+         y="120.39144"
+         x="91.06321"
+         height="23.129107"
+         width="13.77273"
+         id="rect8157"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath8159"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.19448118"
+         rx="0.37797582"
+         y="120.39144"
+         x="91.06321"
+         height="23.129107"
+         width="13.77273"
+         id="rect8161"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath8180"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.092439331"
+         y="151.64391"
+         x="63.795986"
+         height="3.5747297"
+         width="3.8419991"
+         id="rect8182"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath8189"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         transform="matrix(2.1474847,0,0,0.90047355,-40.085156,-9.2421605)"
+         clip-path="url(#clipPath8180)"
+         id="path8191"
+         d="m 53.122067,149.77531 v 24.765 h 13.327226 v -24.765 H 53.122067 m 11.042566,0.9525 c 0,-0.21035 0.17082,-0.38047 0.38077,-0.38047 0.20996,0 0.38078,0.17065 0.38078,0.38047 0,0.20981 -0.17082,0.381 -0.38078,0.381 -0.20995,0 -0.38077,-0.17066 -0.38077,-0.381 z m -1.90389,0 c 0,-0.21035 0.17055,-0.38047 0.38025,-0.38047 0.21048,0 0.38077,0.17065 0.38077,0.38047 0,0.20981 -0.16976,0.381 -0.38025,0.381 -0.21022,0 -0.38077,-0.17066 -0.38077,-0.381 z m -1.903894,0 c 0,-0.21035 0.170556,-0.38047 0.380249,-0.38047 0.21075,0 0.380778,0.17065 0.380778,0.38047 0,0.20981 -0.170557,0.381 -0.380778,0.381 -0.209693,0 -0.380249,-0.17066 -0.380249,-0.381 z m -1.90389,0 c 0,-0.21035 0.170821,-0.38047 0.380778,-0.38047 0.209956,0 0.380249,0.17065 0.380249,0.38047 0,0.20981 -0.170028,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.17066 -0.380778,-0.381 z m -1.90389,0 c 0,-0.21035 0.170821,-0.38047 0.380778,-0.38047 0.209956,0 0.380249,0.17065 0.380249,0.38047 0,0.20981 -0.170028,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.17066 -0.380778,-0.381 z m -1.90389,0 c 0,-0.21035 0.170821,-0.38047 0.380778,-0.38047 0.209957,0 0.380778,0.17012 0.380778,0.38047 0,0.21034 -0.170557,0.381 -0.380778,0.381 -0.210221,0 -0.380778,-0.17066 -0.380778,-0.381 z m 8.281924,10.38225 c 0,-0.21061 0.17082,-0.381 0.38078,-0.381 0.20995,0 0.38024,0.17092 0.38024,0.381 0,0.21008 -0.17055,0.38047 -0.38024,0.38047 -0.21049,5.3e-4 -0.38078,-0.17013 -0.38078,-0.38047 z m 0,-1.905 c 0,-0.21035 0.17082,-0.38047 0.38078,-0.38047 0.20995,0 0.38024,0.17065 0.38024,0.38047 0,0.20981 -0.17055,0.381 -0.38024,0.381 -0.21049,0 -0.38078,-0.17066 -0.38078,-0.381 z m 2.18947,-6.57225 c 0,-0.21035 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21061 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21088 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17065 0.38078,0.381 0,0.21034 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21035 0.17056,-0.38047 0.38025,-0.38047 0.21075,0 0.38078,0.17065 0.38078,0.38047 0,0.2106 -0.17082,0.381 -0.38078,0.381 -0.20969,0 -0.38025,-0.1704 -0.38025,-0.381 z m 0,1.905 c 0,-0.21035 0.17056,-0.38047 0.38025,-0.38047 0.21075,0 0.38078,0.17065 0.38078,0.38047 0,0.20981 -0.17082,0.381 -0.38078,0.381 -0.20969,0 -0.38025,-0.17066 -0.38025,-0.381 z m 0,1.905 c 0,-0.21035 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21061 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21088 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17065 0.38078,0.381 v 0 c 0,0.21034 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21035 0.17056,-0.38047 0.38025,-0.38047 0.21075,0 0.38078,0.17065 0.38078,0.38047 v 0 c 0,0.2106 -0.17082,0.381 -0.38078,0.381 -0.20969,0 -0.38025,-0.1704 -0.38025,-0.381 z m 0,1.905 c 0,-0.21035 0.17056,-0.38047 0.38025,-0.38047 0.21075,0 0.38078,0.17065 0.38078,0.38047 0,0.20981 -0.17082,0.381 -0.38078,0.381 -0.20969,0 -0.38025,-0.17066 -0.38025,-0.381 z m 0,1.905 c 0,-0.21035 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21061 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m -11.423339,0 c 0,-0.21061 0.170821,-0.381 0.380513,-0.381 0.210486,-2.6e-4 0.380514,0.17065 0.380514,0.38073 0,0 0,0 0,2.6e-4 0,0.21035 -0.170557,0.38048 -0.380249,0.38048 -0.210486,5.2e-4 -0.380778,-0.17013 -0.380778,-0.38048 z m 0,-1.905 c 0,-0.21035 0.170821,-0.381 0.380513,-0.381 0.210486,0 0.380514,0.17092 0.380514,0.38073 v 2.6e-4 c 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z m 0,-1.905 c 0,-0.21035 0.170821,-0.38074 0.380513,-0.38074 0.210486,0 0.380514,0.17066 0.380514,0.38047 v 2.6e-4 c 0,0.21034 -0.170557,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.17066 -0.380778,-0.381 z m 0,-1.905 c 0,-0.21035 0.170821,-0.38047 0.380513,-0.38074 0.210486,0 0.380514,0.17066 0.380514,0.38047 0,2.6e-4 0,2.6e-4 0,2.6e-4 0,0.2106 -0.170557,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.1704 -0.380778,-0.381 z m 0,-1.905 c 0,-0.21088 0.170821,-0.381 0.380513,-0.38127 0.210486,0 0.380514,0.17066 0.380514,0.38074 0,0 0,0 0,5.3e-4 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z m 0,-1.905 c 0,-0.21061 0.170821,-0.381 0.380513,-0.381 0.210486,-2.6e-4 0.380514,0.17065 0.380514,0.38073 0,0 0,0 0,2.6e-4 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z m 0,-1.905 c 0,-0.21035 0.170821,-0.381 0.380513,-0.381 0.210486,0 0.380514,0.17092 0.380514,0.38073 v 2.6e-4 c 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z m 0,-1.905 c 0,-0.21035 0.170821,-0.38074 0.380513,-0.38074 0.210486,0 0.380514,0.17066 0.380514,0.38047 v 2.7e-4 c 0,0.21034 -0.170557,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.17066 -0.380778,-0.381 z m 0,-1.905 c 0,-0.21035 0.170821,-0.38047 0.380513,-0.38074 0.210486,0 0.380514,0.17066 0.380514,0.38047 0,2.6e-4 0,2.6e-4 0,2.6e-4 0,0.2106 -0.170557,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.1704 -0.380778,-0.381 z m 0,-1.905 c 0,-0.21088 0.170821,-0.381 0.380513,-0.38127 0.210486,0 0.380514,0.17066 0.380514,0.38074 0,0 0,0 0,5.3e-4 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z m 0,-1.905 c 0,-0.21061 0.170821,-0.381 0.380513,-0.381 0.210486,-2.6e-4 0.380514,0.17065 0.380514,0.38073 0,0 0,0 0,2.6e-4 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.4e-4 -0.380778,-0.17012 -0.380778,-0.38046 z m 0,-1.905 c 0,-0.21035 0.170821,-0.381 0.380513,-0.381 0.210486,0 0.380514,0.17092 0.380514,0.38073 v 2.7e-4 c 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z"
+         inkscape:connector-curvature="0"
+         style="fill:#d38d5f;stroke-width:0.26450622" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-5"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-9"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-53"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-8"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-5-8"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-9-3"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath10266"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.13735025"
+         y="143.87671"
+         x="93.596283"
+         height="6.0476685"
+         width="2.9254649"
+         id="rect10268"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.33575979" />
+    </clipPath>
+    <clipPath
+       id="clipPath10266-6"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.13735025"
+         y="143.87671"
+         x="93.596283"
+         height="6.0476685"
+         width="2.9254649"
+         id="rect10268-4"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.33575979" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-53-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-8-3"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-5-8-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-9-3-8"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-8"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-88"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-5-9"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-9-7"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath10362"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.13326733"
+         y="143.87672"
+         x="93.596283"
+         height="6.0476675"
+         width="2.9254649"
+         id="rect10364"
+         style="fill:#2b6347;fill-opacity:1;stroke-width:0.33073166" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-0"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-5-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-9-0"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath10405"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.13326733"
+         y="143.87672"
+         x="93.596291"
+         height="4.4433589"
+         width="2.3051987"
+         id="rect10407"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.33073166" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective12331-1"
+       inkscape:persp3d-origin="6.9915811 : 15.510622 : 1"
+       inkscape:vp_z="13.983162 : 23.265931 : 1"
+       inkscape:vp_y="0 : 999.99988 : 0"
+       inkscape:vp_x="0 : 23.265931 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       id="clipPath8127-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         transform="scale(-1,1)"
+         ry="0.25737625"
+         y="120.59476"
+         x="-66.785873"
+         height="1.9919207"
+         width="13.807335"
+         id="rect8129-7"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.28109911" />
+    </clipPath>
+    <clipPath
+       id="clipPath8131-0"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         rx="0"
+         ry="0.098083638"
+         style="fill:#0f7391;fill-opacity:1;stroke-width:0.0827582"
+         y="120.59476"
+         x="53.549706"
+         height="4.7625027"
+         width="11.943702"
+         id="rect8133-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath8139-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.23623508"
+         rx="0.37797582"
+         y="120.48593"
+         x="54.116039"
+         height="1.8898809"
+         width="10.961308"
+         id="rect8141-6"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath8155-0"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.19448118"
+         rx="0.37797582"
+         y="120.39144"
+         x="91.06321"
+         height="23.129107"
+         width="13.77273"
+         id="rect8157-6"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath8159-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.19448118"
+         rx="0.37797582"
+         y="120.39144"
+         x="91.06321"
+         height="23.129107"
+         width="13.77273"
+         id="rect8161-6"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath8180-1"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.092439331"
+         y="151.64391"
+         x="63.795986"
+         height="3.5747297"
+         width="3.8419991"
+         id="rect8182-8"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath8189-7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         transform="matrix(2.1474847,0,0,0.90047355,-40.085156,-9.2421605)"
+         clip-path="url(#clipPath8180-1)"
+         id="path8191-9"
+         d="m 53.122067,149.77531 v 24.765 h 13.327226 v -24.765 H 53.122067 m 11.042566,0.9525 c 0,-0.21035 0.17082,-0.38047 0.38077,-0.38047 0.20996,0 0.38078,0.17065 0.38078,0.38047 0,0.20981 -0.17082,0.381 -0.38078,0.381 -0.20995,0 -0.38077,-0.17066 -0.38077,-0.381 z m -1.90389,0 c 0,-0.21035 0.17055,-0.38047 0.38025,-0.38047 0.21048,0 0.38077,0.17065 0.38077,0.38047 0,0.20981 -0.16976,0.381 -0.38025,0.381 -0.21022,0 -0.38077,-0.17066 -0.38077,-0.381 z m -1.903894,0 c 0,-0.21035 0.170556,-0.38047 0.380249,-0.38047 0.21075,0 0.380778,0.17065 0.380778,0.38047 0,0.20981 -0.170557,0.381 -0.380778,0.381 -0.209693,0 -0.380249,-0.17066 -0.380249,-0.381 z m -1.90389,0 c 0,-0.21035 0.170821,-0.38047 0.380778,-0.38047 0.209956,0 0.380249,0.17065 0.380249,0.38047 0,0.20981 -0.170028,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.17066 -0.380778,-0.381 z m -1.90389,0 c 0,-0.21035 0.170821,-0.38047 0.380778,-0.38047 0.209956,0 0.380249,0.17065 0.380249,0.38047 0,0.20981 -0.170028,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.17066 -0.380778,-0.381 z m -1.90389,0 c 0,-0.21035 0.170821,-0.38047 0.380778,-0.38047 0.209957,0 0.380778,0.17012 0.380778,0.38047 0,0.21034 -0.170557,0.381 -0.380778,0.381 -0.210221,0 -0.380778,-0.17066 -0.380778,-0.381 z m 8.281924,10.38225 c 0,-0.21061 0.17082,-0.381 0.38078,-0.381 0.20995,0 0.38024,0.17092 0.38024,0.381 0,0.21008 -0.17055,0.38047 -0.38024,0.38047 -0.21049,5.3e-4 -0.38078,-0.17013 -0.38078,-0.38047 z m 0,-1.905 c 0,-0.21035 0.17082,-0.38047 0.38078,-0.38047 0.20995,0 0.38024,0.17065 0.38024,0.38047 0,0.20981 -0.17055,0.381 -0.38024,0.381 -0.21049,0 -0.38078,-0.17066 -0.38078,-0.381 z m 2.18947,-6.57225 c 0,-0.21035 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21061 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21088 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17065 0.38078,0.381 0,0.21034 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21035 0.17056,-0.38047 0.38025,-0.38047 0.21075,0 0.38078,0.17065 0.38078,0.38047 0,0.2106 -0.17082,0.381 -0.38078,0.381 -0.20969,0 -0.38025,-0.1704 -0.38025,-0.381 z m 0,1.905 c 0,-0.21035 0.17056,-0.38047 0.38025,-0.38047 0.21075,0 0.38078,0.17065 0.38078,0.38047 0,0.20981 -0.17082,0.381 -0.38078,0.381 -0.20969,0 -0.38025,-0.17066 -0.38025,-0.381 z m 0,1.905 c 0,-0.21035 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21061 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21088 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17065 0.38078,0.381 v 0 c 0,0.21034 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21035 0.17056,-0.38047 0.38025,-0.38047 0.21075,0 0.38078,0.17065 0.38078,0.38047 v 0 c 0,0.2106 -0.17082,0.381 -0.38078,0.381 -0.20969,0 -0.38025,-0.1704 -0.38025,-0.381 z m 0,1.905 c 0,-0.21035 0.17056,-0.38047 0.38025,-0.38047 0.21075,0 0.38078,0.17065 0.38078,0.38047 0,0.20981 -0.17082,0.381 -0.38078,0.381 -0.20969,0 -0.38025,-0.17066 -0.38025,-0.381 z m 0,1.905 c 0,-0.21035 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m 0,1.905 c 0,-0.21061 0.17056,-0.381 0.38025,-0.381 0.21075,0 0.38078,0.17092 0.38078,0.381 0,0.21008 -0.17082,0.38047 -0.38078,0.38047 -0.20969,5.3e-4 -0.38025,-0.17013 -0.38025,-0.38047 z m -11.423339,0 c 0,-0.21061 0.170821,-0.381 0.380513,-0.381 0.210486,-2.6e-4 0.380514,0.17065 0.380514,0.38073 0,0 0,0 0,2.6e-4 0,0.21035 -0.170557,0.38048 -0.380249,0.38048 -0.210486,5.2e-4 -0.380778,-0.17013 -0.380778,-0.38048 z m 0,-1.905 c 0,-0.21035 0.170821,-0.381 0.380513,-0.381 0.210486,0 0.380514,0.17092 0.380514,0.38073 v 2.6e-4 c 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z m 0,-1.905 c 0,-0.21035 0.170821,-0.38074 0.380513,-0.38074 0.210486,0 0.380514,0.17066 0.380514,0.38047 v 2.6e-4 c 0,0.21034 -0.170557,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.17066 -0.380778,-0.381 z m 0,-1.905 c 0,-0.21035 0.170821,-0.38047 0.380513,-0.38074 0.210486,0 0.380514,0.17066 0.380514,0.38047 0,2.6e-4 0,2.6e-4 0,2.6e-4 0,0.2106 -0.170557,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.1704 -0.380778,-0.381 z m 0,-1.905 c 0,-0.21088 0.170821,-0.381 0.380513,-0.38127 0.210486,0 0.380514,0.17066 0.380514,0.38074 0,0 0,0 0,5.3e-4 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z m 0,-1.905 c 0,-0.21061 0.170821,-0.381 0.380513,-0.381 0.210486,-2.6e-4 0.380514,0.17065 0.380514,0.38073 0,0 0,0 0,2.6e-4 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z m 0,-1.905 c 0,-0.21035 0.170821,-0.381 0.380513,-0.381 0.210486,0 0.380514,0.17092 0.380514,0.38073 v 2.6e-4 c 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z m 0,-1.905 c 0,-0.21035 0.170821,-0.38074 0.380513,-0.38074 0.210486,0 0.380514,0.17066 0.380514,0.38047 v 2.7e-4 c 0,0.21034 -0.170557,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.17066 -0.380778,-0.381 z m 0,-1.905 c 0,-0.21035 0.170821,-0.38047 0.380513,-0.38074 0.210486,0 0.380514,0.17066 0.380514,0.38047 0,2.6e-4 0,2.6e-4 0,2.6e-4 0,0.2106 -0.170557,0.381 -0.380249,0.381 -0.210486,0 -0.380778,-0.1704 -0.380778,-0.381 z m 0,-1.905 c 0,-0.21088 0.170821,-0.381 0.380513,-0.38127 0.210486,0 0.380514,0.17066 0.380514,0.38074 0,0 0,0 0,5.3e-4 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z m 0,-1.905 c 0,-0.21061 0.170821,-0.381 0.380513,-0.381 0.210486,-2.6e-4 0.380514,0.17065 0.380514,0.38073 0,0 0,0 0,2.6e-4 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.4e-4 -0.380778,-0.17012 -0.380778,-0.38046 z m 0,-1.905 c 0,-0.21035 0.170821,-0.381 0.380513,-0.381 0.210486,0 0.380514,0.17092 0.380514,0.38073 v 2.7e-4 c 0,0.21034 -0.170557,0.38047 -0.380249,0.38047 -0.210486,5.3e-4 -0.380778,-0.17013 -0.380778,-0.38047 z"
+         inkscape:connector-curvature="0"
+         style="fill:#d38d5f;stroke-width:0.26450622" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-02"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-5-37"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-9-5"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-53-9"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-8-2"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-5-8-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-9-3-89"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath10266-7"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.13735025"
+         y="143.87671"
+         x="93.596283"
+         height="6.0476685"
+         width="2.9254649"
+         id="rect10268-3"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.33575979" />
+    </clipPath>
+    <clipPath
+       id="clipPath10266-6-6"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.13735025"
+         y="143.87671"
+         x="93.596283"
+         height="6.0476685"
+         width="2.9254649"
+         id="rect10268-4-1"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.33575979" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-53-3-2"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-8-3-9"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-5-8-3-3"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-9-3-8-1"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-8-9"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-88-4"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-5-9-7"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-9-7-8"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath10362-4"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.13326733"
+         y="143.87672"
+         x="93.596283"
+         height="6.0476675"
+         width="2.9254649"
+         id="rect10364-5"
+         style="fill:#2b6347;fill-opacity:1;stroke-width:0.33073166" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-3-0"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-0-3"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath9564-5-3-6"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.10265648"
+         y="152.17845"
+         x="65.499832"
+         height="4.443356"
+         width="2.3051996"
+         id="rect9566-9-0-1"
+         style="fill:#1e3934;fill-opacity:1;stroke-width:0.26458332" />
+    </clipPath>
+    <clipPath
+       id="clipPath10405-0"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0.13326733"
+         y="143.87672"
+         x="93.596291"
+         height="4.4433589"
+         width="2.3051987"
+         id="rect10407-6"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.33073166" />
+    </clipPath>
+    <clipPath
+       id="clipPath5390"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         transform="matrix(0.84424476,0.53595782,0.5403069,0.84146804,0,0)"
+         y="354.08539"
+         x="227.97491"
+         height="1.5018795"
+         width="1.4438167"
+         id="rect5392"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.40786138;stroke-opacity:1;paint-order:markers stroke fill" />
+    </clipPath>
+    <clipPath
+       id="clipPath5396"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         transform="matrix(0.84424476,0.53595782,0.5403069,0.84146804,0,0)"
+         y="354.30698"
+         x="227.99806"
+         height="1.2803067"
+         width="1.4206747"
+         id="rect5398"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.40786138;stroke-opacity:1;paint-order:markers stroke fill" />
+    </clipPath>
+    <clipPath
+       id="clipPath5396-6"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         transform="matrix(0.84424476,0.53595782,0.5403069,0.84146804,0,0)"
+         y="354.30698"
+         x="227.99806"
+         height="1.2803067"
+         width="1.4206747"
+         id="rect5398-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.40786138;stroke-opacity:1;paint-order:markers stroke fill" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="47.438758"
+     inkscape:cy="50.697335"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="960"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata1418">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-111.01265,-61.8226)">
+    <g
+       id="schematic"
+       transform="translate(111.24597,61.898825)">
+      <rect
+         id="rect1985"
+         height="53.022499"
+         width="22.5425"
+         y="-58.26125"
+         x="5.23875"
+         class="interior rect"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.3175;stroke-linecap:round"
+         transform="scale(1,-1)" />
+      <line
+         id="connector37pin"
+         y2="12.7"
+         x2="32.8965"
+         y1="12.7"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector37terminal"
+         height="0.246944"
+         width="0.246944"
+         y="12.5765"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector52pin"
+         y2="12.7"
+         x2="32.8965"
+         y1="12.7"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text1990"
+         y="12.9469"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D13 SCK</text>
+      <rect
+         id="connector52terminal"
+         height="0.246944"
+         width="0.246944"
+         y="12.5765"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector36pin"
+         y2="15.24"
+         x2="32.8965"
+         y1="15.24"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector36terminal"
+         height="0.246944"
+         width="0.246944"
+         y="15.1165"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector50pin"
+         y2="15.24"
+         x2="32.8965"
+         y1="15.24"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text1996"
+         y="15.4869"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D12 MISO</text>
+      <rect
+         id="connector50terminal"
+         height="0.246944"
+         width="0.246944"
+         y="15.1165"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector35pin"
+         y2="17.780001"
+         x2="32.8965"
+         y1="17.780001"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector35terminal"
+         height="0.246944"
+         width="0.246944"
+         y="17.6565"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector53pin"
+         y2="17.780001"
+         x2="32.8965"
+         y1="17.780001"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2002"
+         y="18.026899"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D11 MOSI</text>
+      <rect
+         id="connector53terminal"
+         height="0.246944"
+         width="0.246944"
+         y="17.6565"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector34pin"
+         y2="20.32"
+         x2="32.8965"
+         y1="20.32"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2006"
+         y="20.5669"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D10 PWM/SS</text>
+      <rect
+         id="connector34terminal"
+         height="0.246944"
+         width="0.246944"
+         y="20.196501"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector33pin"
+         y2="22.860001"
+         x2="32.8965"
+         y1="22.860001"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2010"
+         y="23.106899"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">LED D9 PWM</text>
+      <rect
+         id="connector33terminal"
+         height="0.246944"
+         width="0.246944"
+         y="22.7365"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector32pin"
+         y2="25.4"
+         x2="32.8965"
+         y1="25.4"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2014"
+         y="25.6469"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D8</text>
+      <rect
+         id="connector32terminal"
+         height="0.246944"
+         width="0.246944"
+         y="25.276501"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector25pin"
+         y2="27.940001"
+         x2="32.8965"
+         y1="27.940001"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2018"
+         y="28.186899"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D7</text>
+      <rect
+         id="connector25terminal"
+         height="0.246944"
+         width="0.246944"
+         y="27.8165"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector24pin"
+         y2="30.48"
+         x2="32.8965"
+         y1="30.48"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2022"
+         y="30.7269"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D6 PWM</text>
+      <rect
+         id="connector24terminal"
+         height="0.246944"
+         width="0.246944"
+         y="30.356501"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector23pin"
+         y2="33.02"
+         x2="32.8965"
+         y1="33.02"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2026"
+         y="33.266899"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D5 PWM</text>
+      <rect
+         id="connector23terminal"
+         height="0.246944"
+         width="0.246944"
+         y="32.8965"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector22pin"
+         y2="35.560001"
+         x2="32.8965"
+         y1="35.560001"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2030"
+         y="35.8069"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">NC:D4</text>
+      <rect
+         id="connector22terminal"
+         height="0.246944"
+         width="0.246944"
+         y="35.436501"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector21pin"
+         y2="38.099998"
+         x2="32.8965"
+         y1="38.099998"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2034"
+         y="38.346901"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">NC:D3</text>
+      <rect
+         id="connector21terminal"
+         height="0.246944"
+         width="0.246944"
+         y="37.976501"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector20pin"
+         y2="40.639999"
+         x2="32.8965"
+         y1="40.639999"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2038"
+         y="40.886902"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">NC:D2</text>
+      <rect
+         id="connector20terminal"
+         height="0.246944"
+         width="0.246944"
+         y="40.516499"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector19pin"
+         y2="43.18"
+         x2="32.8965"
+         y1="43.18"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2042"
+         y="43.426899"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D0/RX</text>
+      <rect
+         id="connector19terminal"
+         height="0.246944"
+         width="0.246944"
+         y="43.056499"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector18pin"
+         y2="45.720001"
+         x2="32.8965"
+         y1="45.720001"
+         x1="27.8165"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2046"
+         y="45.9669"
+         x="27.322599"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0">D1/TX</text>
+      <rect
+         id="connector18terminal"
+         height="0.246944"
+         width="0.246944"
+         y="45.5965"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <rect
+         id="connector61terminal"
+         height="0.246944"
+         width="0.246944"
+         y="50.676498"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <rect
+         id="connector60terminal"
+         height="0.246944"
+         width="0.246944"
+         y="53.216499"
+         x="32.8965"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector44pin"
+         y2="23.283337"
+         x2="5.2034702"
+         y1="23.283337"
+         x1="0.123472"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector44terminal"
+         height="0.246944"
+         width="0.246944"
+         y="23.159838"
+         x="-0.123472"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector54pin"
+         y2="23.283337"
+         x2="5.2034702"
+         y1="23.283337"
+         x1="0.123472"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2060"
+         y="23.530239"
+         x="5.69736"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0">RESET</text>
+      <rect
+         id="connector54terminal"
+         height="0.246944"
+         width="0.246944"
+         y="23.159838"
+         x="-0.123472"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <rect
+         id="connector39terminal"
+         height="0.246944"
+         width="0.246944"
+         y="15.1165"
+         x="-0.123472"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <rect
+         id="connector59terminal"
+         height="0.246944"
+         width="0.246944"
+         y="22.948172"
+         x="-0.123472"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector26pin"
+         y2="28.151672"
+         x2="5.2034702"
+         y1="28.151672"
+         x1="0.123472"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2072"
+         y="28.398571"
+         x="5.69736"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0">A0</text>
+      <rect
+         id="connector26terminal"
+         height="0.246944"
+         width="0.246944"
+         y="28.028172"
+         x="-0.123472"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector27pin"
+         y2="30.691671"
+         x2="5.2034702"
+         y1="30.691671"
+         x1="0.123472"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2076"
+         y="30.938572"
+         x="5.69736"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0">A1</text>
+      <rect
+         id="connector27terminal"
+         height="0.246944"
+         width="0.246944"
+         y="30.568172"
+         x="-0.123472"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector28pin"
+         y2="33.23167"
+         x2="5.2034702"
+         y1="33.23167"
+         x1="0.123472"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <text
+         id="text2080"
+         y="33.478569"
+         x="5.69736"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0">A2</text>
+      <rect
+         id="connector28terminal"
+         height="0.246944"
+         width="0.246944"
+         y="33.10817"
+         x="-0.123472"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <text
+         id="text2084"
+         y="36.01857"
+         x="5.69736"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0" />
+      <text
+         y="17.497719"
+         x="5.69736"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+         id="text6649">NC=BATV/2</text>
+      <rect
+         id="connector29terminal"
+         height="0.246944"
+         width="0.246944"
+         y="30.356501"
+         x="-0.123472"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <rect
+         id="connector30terminal"
+         height="0.246944"
+         width="0.246944"
+         y="32.8965"
+         x="-0.123472"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <rect
+         id="connector31terminal"
+         height="0.246944"
+         width="0.246944"
+         y="16.915649"
+         x="-0.123472"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector65pin"
+         y2="63.376499"
+         x2="15.24"
+         y1="58.296501"
+         x1="15.24"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector65terminal"
+         height="0.246944"
+         width="0.246944"
+         y="63.376499"
+         x="15.1165"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector64pin"
+         y2="63.376499"
+         x2="15.24"
+         y1="58.296501"
+         x1="15.24"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector64terminal"
+         height="0.246944"
+         width="0.246944"
+         y="63.376499"
+         x="15.1165"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector63pin"
+         y2="63.376499"
+         x2="15.24"
+         y1="58.296501"
+         x1="15.24"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector63terminal"
+         height="0.246944"
+         width="0.246944"
+         y="63.376499"
+         x="15.1165"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector55pin"
+         y2="63.376499"
+         x2="15.24"
+         y1="58.296501"
+         x1="15.24"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector55terminal"
+         height="0.246944"
+         width="0.246944"
+         y="63.376499"
+         x="15.1165"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector38pin"
+         y2="63.376499"
+         x2="15.24"
+         y1="58.296501"
+         x1="15.24"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector38terminal"
+         height="0.246944"
+         width="0.246944"
+         y="63.376499"
+         x="15.1165"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector48pin"
+         y2="63.376499"
+         x2="15.24"
+         y1="58.296501"
+         x1="15.24"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector48terminal"
+         height="0.246944"
+         width="0.246944"
+         y="63.376499"
+         x="15.1165"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector47pin"
+         y2="63.376499"
+         x2="15.24"
+         y1="58.296501"
+         x1="15.24"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector47terminal"
+         height="0.246944"
+         width="0.246944"
+         y="63.376499"
+         x="15.1165"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector67pin"
+         y2="63.376499"
+         x2="15.24"
+         y1="58.296501"
+         x1="15.24"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <g
+         transform="rotate(-90,36.64475,21.15785)"
+         id="g2112">
+        <text
+           style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+           class="text"
+           font-size="1.23472"
+           x="0"
+           y="0"
+           id="text2110">GND</text>
+      </g>
+      <rect
+         id="connector67terminal"
+         height="0.246944"
+         width="0.246944"
+         y="63.376499"
+         x="15.1165"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector51pin"
+         y2="5.2507172"
+         x2="8.7539282"
+         y1="0.17071903"
+         x1="8.7539282"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector51terminal"
+         height="0.246944"
+         width="0.246944"
+         y="-0.076224975"
+         x="8.6304588"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector45pin"
+         y2="5.2507172"
+         x2="8.7539282"
+         y1="0.17071903"
+         x1="8.7539282"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector45terminal"
+         height="0.246944"
+         width="0.246944"
+         y="-0.076224975"
+         x="8.6304588"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector62pin"
+         y2="5.2507172"
+         x2="8.7539282"
+         y1="0.17071903"
+         x1="8.7539282"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <g
+         transform="rotate(-90,7.3727378,-1.6281308)"
+         id="g2124">
+        <text
+           style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+           class="text"
+           font-size="1.23472"
+           x="0"
+           y="0"
+           id="text2122">GND</text>
+      </g>
+      <rect
+         id="connector62terminal"
+         height="0.246944"
+         width="0.246944"
+         y="-0.076224975"
+         x="8.6304588"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector68pin"
+         y2="5.2507172"
+         x2="14.892261"
+         y1="0.17071903"
+         x1="14.892261"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <g
+         transform="rotate(-90,9.2040124,-3.3176644)"
+         id="g2132">
+        <text
+           style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+           class="text"
+           font-size="1.23472"
+           x="0"
+           y="0"
+           id="text2130">GND</text>
+      </g>
+      <rect
+         id="connector68terminal"
+         height="0.246944"
+         width="0.246944"
+         y="-0.076224975"
+         x="13.710428"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector46pin"
+         y2="5.2507172"
+         x2="17.855595"
+         y1="0.17071903"
+         x1="17.855595"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <g
+         transform="rotate(-90,11.980248,-6.3773816)"
+         id="g2140">
+        <text
+           style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+           class="text"
+           font-size="1.23472"
+           x="0"
+           y="0"
+           id="text2138">RX</text>
+      </g>
+      <rect
+         id="connector46terminal"
+         height="0.246944"
+         width="0.246944"
+         y="-0.076224975"
+         x="18.790428"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector49pin"
+         y2="5.2507172"
+         x2="23.993929"
+         y1="0.17071903"
+         x1="23.993929"
+         class="pin"
+         style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" />
+      <rect
+         id="connector49terminal"
+         height="0.246944"
+         width="0.246944"
+         y="-0.076224975"
+         x="23.870428"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector66pin"
+         y2="5.2507172"
+         x2="23.993929"
+         y1="0.17071903"
+         x1="23.993929"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" />
+      <g
+         transform="rotate(-90,14.992718,-9.2481108)"
+         id="g2150">
+        <text
+           style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+           class="text"
+           font-size="1.23472"
+           x="0"
+           y="0"
+           id="text2148">DTR</text>
+      </g>
+      <rect
+         id="connector66terminal"
+         height="0.246944"
+         width="0.246944"
+         y="-0.076224975"
+         x="23.870428"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <text
+         y="30.309401"
+         x="16.668699"
+         font-size="1.49931"
+         id="label"
+         class="text"
+         style="font-size:1.49931002px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0">ULPLoRa</text>
+      <text
+         y="31.9088"
+         x="16.668699"
+         font-size="1.49931"
+         id="text2156"
+         class="text"
+         style="font-size:1.49931002px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0">V2.1</text>
+      <line
+         id="connector68pin-0"
+         y2="5.1639318"
+         x2="11.963315"
+         y1="0.083933741"
+         x1="11.963315"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.24694401;stroke-linecap:round" />
+      <line
+         id="connector68pin-6"
+         y2="5.253653"
+         x2="20.801462"
+         y1="0.17365536"
+         x1="20.801462"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.24694401;stroke-linecap:round" />
+      <g
+         transform="rotate(-90,10.539113,-4.8139256)"
+         id="g2140-1">
+        <text
+           style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+           class="text"
+           font-size="1.23472"
+           x="0"
+           y="0"
+           id="text2138-5">3V3</text>
+      </g>
+      <g
+         transform="rotate(-90,13.492052,-7.8141116)"
+         id="g2140-5">
+        <text
+           style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+           class="text"
+           font-size="1.23472"
+           x="0"
+           y="0"
+           id="text2138-4">TX</text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.70555556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="10.509606"
+         y="10.536068"
+         id="text6710"><tspan
+           sodipodi:role="line"
+           id="tspan6708"
+           x="10.509606"
+           y="10.536068"
+           style="font-size:1.0583334px;stroke-width:0.26458332">USB- UART Programmer</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.70555556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-41.184662"
+         y="21.958172"
+         id="text6714"
+         transform="rotate(-90.553959)"><tspan
+           sodipodi:role="line"
+           id="tspan6712"
+           x="-41.184662"
+           y="21.958172"
+           style="font-size:1.0583334px;stroke-width:0.26458332">Radio Pins</tspan></text>
+      <line
+         id="connector23pin-7"
+         y2="16.915649"
+         x2="5.203474"
+         y1="16.915649"
+         x1="0.123472"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.24694401;stroke-linecap:round" />
+      <line
+         id="connector27pin-6"
+         y2="43.439838"
+         x2="5.1379466"
+         y1="43.439838"
+         x1="0.05795252"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.24694401;stroke-linecap:round" />
+      <text
+         id="text2076-5"
+         y="43.686737"
+         x="5.6318355"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0">SDA A4</text>
+      <rect
+         id="connector27terminal-6"
+         height="0.24694401"
+         width="0.24694401"
+         y="43.316338"
+         x="-0.18899569"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector28pin-9"
+         y2="45.979839"
+         x2="5.1379466"
+         y1="45.979839"
+         x1="0.05795252"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.24694401;stroke-linecap:round" />
+      <text
+         id="text2080-3"
+         y="46.226738"
+         x="5.6318355"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0">SCL A5</text>
+      <rect
+         id="connector28terminal-7"
+         height="0.24694401"
+         width="0.24694401"
+         y="45.856339"
+         x="-0.18899569"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector26pin-4"
+         y2="11.953114"
+         x2="5.0936217"
+         y1="11.953114"
+         x1="0.01362768"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.24694401;stroke-linecap:round" />
+      <text
+         id="text2072-5"
+         y="12.200012"
+         x="5.5875111"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0">BAT/RAW</text>
+      <rect
+         id="connector26terminal-2"
+         height="0.24694401"
+         width="0.24694401"
+         y="11.829613"
+         x="-0.23332056"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+      <line
+         id="connector27pin-5"
+         y2="14.49311"
+         x2="5.0936217"
+         y1="14.49311"
+         x1="0.01362768"
+         class="pin"
+         style="fill:none;stroke:#787878;stroke-width:0.24694401;stroke-linecap:round" />
+      <text
+         id="text2076-4"
+         y="14.740012"
+         x="5.5875111"
+         font-size="1.23472"
+         class="text"
+         style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0">GND -</text>
+      <rect
+         id="connector27terminal-7"
+         height="0.24694401"
+         width="0.24694401"
+         y="14.369614"
+         x="-0.23332056"
+         class="terminal"
+         style="fill:none;stroke:none;stroke-width:0" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+influxdb-client
+pandas
+librosa
+keras
+tensorflow
+PyYAML
+RPi.GPIO

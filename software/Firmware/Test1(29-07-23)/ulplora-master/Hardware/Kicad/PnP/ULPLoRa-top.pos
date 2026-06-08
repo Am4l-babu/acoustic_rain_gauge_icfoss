@@ -1,0 +1,21 @@
+### Module positions - created on Thu Mar 14 12:42:45 2019 ###
+### Printed by Pcbnew version kicad 4.0.7-e2-6376~61~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                        PosX       PosY       Rot  Side
+C4        0.1uF          C_0805                      12.1634    38.1862  270.0000  top
+C5        100nF          C_0805                      11.7062    57.5918    0.0000  top
+C6        0.1uf          C_0805                      16.7862    38.1354  270.0000  top
+C7        0.1uF          C_0805                       7.5350    37.2250  270.0000  top
+D1        RED            LED_0805                    15.4350    63.9500   90.0000  top
+D2        Green          LED_0805                    14.2970    38.2370   90.0000  top
+D3        Blue           LED_0805                     9.8266    38.1354   90.0000  top
+J2        Conn_Coaxial   U.FL-COAX                   21.7650     2.7100    0.0000  top
+Q1        DMG3415U-7     SOT-23                      11.0850    64.0000   90.0000  top
+R2        330            R_0805                      16.0850    60.5250    0.0000  top
+R5        680K           R_0805                      10.5632    54.8994   90.0000  top
+R6        680K           R_0805                      12.8492    54.8994   90.0000  top
+U1        RFM95W-868S2   XCVR_RFM95W-868S2           10.3854     9.5858    0.0000  top
+U4        ATMEGA328P-AU  TQFP-32_7x7mm_Pitch0.8mm    12.2650    46.3650  315.0000  top
+Y1        8Mhz           RESONATOR-SMD                7.6930    53.4770   90.0000  top
+## End
