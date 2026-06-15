@@ -1,4 +1,4 @@
-# 🌧️ ICFOSS Acoustic Rain Gauge 
+# 🌧️ ICFOSS Acoustic Rain Gauge
 
 [![Python Version](https://img.shields.io/badge/python-3.14-blue.svg)](https://python.org)
 [![ML Framework](https://img.shields.io/badge/ML-Scikit--Learn%20%2F%20TensorFlow-orange.svg)](https://scikit-learn.org/)
@@ -7,14 +7,6 @@
 [![Organization](https://img.shields.io/badge/ICFOSS-R%26D-blue)](https://icfoss.in/)
 
 An innovative research and development project by **ICFOSS (International Centre for Free and Open Source Software, Kerala)** to estimate rainfall rate and precipitation dynamics in real-time by analyzing the **sound of raindrops** falling on a metallic enclosure using Machine Learning.
-
----
-
-## 📸 System Concept & UI
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm15b3gwZ2o3dnoxZWNxd3Bod3l0MXNsdHprdm41M2N0ajdpZ2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wxpaNs949jOarTPxFZ/giphy.gif" width="700" alt="Rainfall Sound Estimation Animation" />
-</div>
 
 > [!NOTE]  
 > Traditional rain gauges are mechanical (tipping buckets) or optical, which require high maintenance and are prone to debris clogging. The acoustic rain gauge presents a low-cost, solid-state, maintenance-free alternative.
@@ -113,9 +105,5 @@ streamlit run software/rainfall_monitor_nonmechanical/demo_app.py
 
 ---
 
-## 👥 Project Contributors
-*   **Gopika T G**
-*   **Sajil C K** ([@cksajil](https://github.com/cksajil/))
-*   **Manu Mohan M S**
-*   **Aiswarya Babu**
-*   **Harikrishnan K P**
+## 👤 Developer & Contributor
+*   **Amal Babu** ([@Am4l-babu](https://github.com/Am4l-babu))

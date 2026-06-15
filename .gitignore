@@ -1,0 +1,41 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Large ZIP archives and raw data caches
+*.zip
+*.ods
+*.pdf
+cache/
+best_model_predictions.png
+features.npy
+targets.npy
+times.npy
+
+# Local / Temp folders
+New folder/
+temp/
+tmp/
