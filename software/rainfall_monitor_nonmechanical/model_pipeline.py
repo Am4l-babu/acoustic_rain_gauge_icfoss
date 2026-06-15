@@ -10,6 +10,7 @@ from datetime import datetime, timedelta
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.neural_network import MLPRegressor
+from sklearn.svm import SVR
 from sklearn.metrics import mean_absolute_error, root_mean_squared_error
 
 def parse_wav_time(fname):
@@ -201,12 +202,28 @@ def main():
     X_train_scaled = scaler.fit_transform(X_train)
     X_test_scaled = scaler.transform(X_test)
     
-    # Models
-    models = {
-        "Baseline (Mean)": None,
-        "Random Forest": RandomForestRegressor(n_estimators=100, random_state=42, n_jobs=-1),
-        "Gradient Boosting": GradientBoostingRegressor(random_state=42),
-        "Neural Network (MLP)": MLPRegressor(hidden_layer_sizes=(128, 64), max_iter=500, random_state=42)
+    # Models configuration
+    models_config = {
+        "Baseline (Mean)": {
+            "model": None,
+            "use_log": False,
+            "threshold": 0.0
+        },
+        "Random Forest (Tuned)": {
+            "model": RandomForestRegressor(n_estimators=150, max_depth=5, min_samples_leaf=5, random_state=42, n_jobs=-1),
+            "use_log": False,
+            "threshold": 0.0
+        },
+        "Neural Network MLP (Tuned, Log-Target)": {
+            "model": MLPRegressor(hidden_layer_sizes=(16, 8), alpha=20.0, max_iter=500, random_state=42),
+            "use_log": True,
+            "threshold": 0.0
+        },
+        "Linear SVR (Tuned, Log-Target + Threshold)": {
+            "model": SVR(kernel='linear', C=3.0, epsilon=0.15),
+            "use_log": True,
+            "threshold": 0.170
+        }
     }
     
     results = []
@@ -215,15 +232,31 @@ def main():
     best_name = None
     y_pred_best = None
     
-    for name, model in models.items():
+    for name, cfg in models_config.items():
+        model = cfg["model"]
+        use_log = cfg["use_log"]
+        th = cfg["threshold"]
+        
         if name == "Baseline (Mean)":
             y_pred_train = np.full_like(y_train, np.mean(y_train))
             y_pred_test = np.full_like(y_test, np.mean(y_train))
         else:
             print(f"Training {name}...")
-            model.fit(X_train_scaled, y_train)
-            y_pred_train = model.predict(X_train_scaled)
-            y_pred_test = model.predict(X_test_scaled)
+            if use_log:
+                model.fit(X_train_scaled, np.log1p(y_train))
+                y_pred_train = np.expm1(model.predict(X_train_scaled))
+                y_pred_test = np.expm1(model.predict(X_test_scaled))
+            else:
+                model.fit(X_train_scaled, y_train)
+                y_pred_train = model.predict(X_train_scaled)
+                y_pred_test = model.predict(X_test_scaled)
+                
+        # Post-processing
+        y_pred_train = np.clip(y_pred_train, 0, None)
+        y_pred_test = np.clip(y_pred_test, 0, None)
+        if th > 0.0:
+            y_pred_train = np.where(y_pred_train < th, 0.0, y_pred_train)
+            y_pred_test = np.where(y_pred_test < th, 0.0, y_pred_test)
             
         # Metrics
         mae_train = mean_absolute_error(y_train, y_pred_train)
